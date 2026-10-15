@@ -54,5 +54,6 @@ The objective of this project is to develop a simple interactive game using Pyth
 
 👨‍💻 Author
 Satyam Gupta
+
 📄 License
 This project is created for educational and learning purposes.
