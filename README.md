@@ -3,7 +3,7 @@
 📌 Project Description
 The Number Guessing Game is a simple Python-based game in which the computer randomly selects a number between 1 and 100. The player must guess the correct number within 7 attempts.
 After each guess, the game provides hints to help the player find the correct number. It tells the player whether their guess is too low or too high.
-
+ 
 🎮 Features
 •Generates a random number between 1 and 100.
 •Gives the player 7 attempts to guess the number.
